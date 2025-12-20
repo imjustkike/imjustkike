@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Luis García:
+# 👋 Hi, I'm Kike García:
 💻 Web & Mobile Developer especializado en React y React Native.
 Me apasiona crear aplicaciones que combinen funcionalidad, diseño y escalabilidad, siempre con un enfoque en la experiencia del usuario.
 
