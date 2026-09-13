@@ -1,21 +1,75 @@
-# 👋 Hola, Soy Kike García:
-💻 Web & Mobile Developer especializado en React y React Native.
-Me apasiona crear aplicaciones que combinen funcionalidad, diseño y escalabilidad, siempre con un enfoque en la experiencia del usuario.
+<div align="center">
 
-🚀 Sobre mí<br><br>🔹 Experiencia construyendo aplicaciones móviles y web desde cero.<br><br>🔹 He trabajado como Tech Lead y programador principal en startups, liderando el desarrollo de productos digitales.<br><br>🔹 Manejo tecnologías modernas como React, React Native, Next.js, Expo y Firebase.<br><br>🔹 Implemento soluciones avanzadas como geolocalización con geohashes, procesamiento de pagos con Stripe y sistemas multicurrency/multilenguaje.<br><br>🔹 También me interesa el UI/UX y el diseño visual.
+<img src="assets/header.png" width="100%" alt="Header" style="border-radius: 20px;" />
 
+# Hey there, I'm Kike García 👋
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kikedev.ve) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kike.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kikedev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kikedev_) 
+**Full-Stack & Cloud Developer** focused on building high-performance web applications with **React**, **TypeScript**, and **Google Cloud Platform**.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imjustkike&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=imjustkike&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imjustkike&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://linkedin.com/in/imjustkike"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/imjustkike"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  <a href="https://instagram.com/kike.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:imjustkike@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20Touch-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Email" /></a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imjustkike&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🚀 What I Do
+
+- ⚛️ **Frontend Engineering:** Crafting reactive, accessible, and type-safe user interfaces with **React**, **TypeScript**, and **Next.js**.
+- ☁️ **Cloud Architecture:** Designing scalable, resilient cloud-native solutions with **Google Cloud Platform** (Cloud Run, Cloud Functions, Firestore).
+- 🛠️ **End-to-End Delivery:** Turning complex business requirements into fast, maintainable, production-ready software.
+
+---
+
+### 💻 Core Tech Stack
+
+```text
+Frontend     │ React · TypeScript · Next.js · Tailwind CSS
+Cloud & Ops  │ Google Cloud Platform · Firebase · Docker · CI/CD
+Backend      │ Node.js · REST & Serverless APIs · PostgreSQL
+```
+
+<div align="center">
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+
+<!-- Cloud & Backend -->
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imjustkike&theme=tokyonight" alt="GitHub Profile Details & Activity" width="100%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imjustkike&theme=tokyonight" alt="GitHub Stats" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imjustkike&theme=tokyonight" alt="Top Languages by Commit" width="49%" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imjustkike&theme=tokyonight&hide_border=true&stroke=61dafb&ring=4285f4&fire=ffca28" alt="GitHub Streak" width="98%" />
+
+</div>
+
+---
+
+<div align="center">
+  <i>💡 "Turning complex ideas into scalable, cloud-powered web applications."</i>
+</div>
