@@ -55,10 +55,10 @@ Backend      │ Node.js · REST & Serverless APIs · PostgreSQL
 
 <div align="start">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imjustkike&theme=tokyonight" alt="GitHub Profile Details & Activity" height="150px" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imjustkike&theme=tokyonight" alt="GitHub Stats" height="150px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imjustkike&theme=tokyonight&hide_border=true&stroke=61dafb&ring=4285f4&fire=ffca28" alt="GitHub Streak" height="150px" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imjustkike&theme=tokyonight" alt="Top Languages by Commit" height="150px" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imjustkike&theme=vue" alt="GitHub Profile Details & Activity" height="150px" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imjustkike&theme=vue" alt="GitHub Stats" height="150px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imjustkike&theme=vue&hide_border=true&stroke=61dafb&ring=4285f4&fire=ffca28" alt="GitHub Streak" height="150px" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imjustkike&theme=vue" alt="Top Languages by Commit" height="150px" />
 
 ---
 
