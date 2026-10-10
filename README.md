@@ -23,7 +23,7 @@
 - ☁️ **Cloud Architecture:** Designing scalable, resilient cloud-native solutions with **Google Cloud Platform** (Cloud Run, Cloud Functions, Firestore).
 - 🛠️ **End-to-End Delivery:** Turning complex business requirements into fast, maintainable, production-ready software.
 
----
+--
 
 ### 💻 Core Tech Stack
 
